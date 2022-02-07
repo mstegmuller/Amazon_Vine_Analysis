@@ -1,7 +1,8 @@
 # Amazon_Vine_Analysis
 
 Overview
-The purpose of this analysis was to create data frame using AWS and RDS from information chosen from Amazon datasets.  I chose to use information from video game reviews.  The analysis used google colab and Pyspark to extract data.  AWS, RDS connected the extracted data to pgAdmin which was used to create various tables.  
+
+The purpose of this analysis was to create data frames using AWS and RDS from information chosen from Amazon datasets.  I chose to use information from video game reviews.  The analysis used google colab and Pyspark to extract data.  AWS, RDS connected the extracted data to pgAdmin which was used to create various tables.  
 
 
 Results
