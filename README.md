@@ -23,4 +23,5 @@ Percentage of 5 Star Reviews
 ![Percentage of 5 star reviews unpaid](https://user-images.githubusercontent.com/92127589/152852506-d7c97d4a-560b-4baa-8ee1-45d448d21843.PNG)
 
 Summary
-Based on the results 51% of the reviews were paid 5-star reviews compared to 39% for unpaid 5 star reviews.  This shows that if a review was paid the higher chance, they were going to give a 5 star review demonstrating a positivity bias for reviews.  An additional analysis could be reviews where with no paid reviews at all.  You could also analyze stats showing the star ratings that are less than 5 stars.      
+
+Based on the results 51% of the reviews were paid 5-star reviews compared to 39% for unpaid 5 star reviews.  This shows that if a review was paid the higher chance they were going to give a 5 star review demonstrating a positivity bias for reviews.  An additional analysis could be reviews where with no paid reviews at all.  You could also analyze stats showing the star ratings that are less than 5 stars.      
