@@ -5,11 +5,14 @@ The purpose of this analysis was to create data frame using AWS and RDS from inf
 
 
 Results
+
 Total Reviews
+
 ![Total Vine Reviews](https://user-images.githubusercontent.com/92127589/152852358-7b794bbf-7d2c-496f-b955-2a91e29dd4ca.PNG)
 ![Total Non-Vine reviews](https://user-images.githubusercontent.com/92127589/152852380-fa4a004c-8e6d-4c4a-af39-1be9adccf128.PNG)
 
 5 Star Reviews
+
 ![5 star vine reviews paid](https://user-images.githubusercontent.com/92127589/152852415-a48a8cea-7330-49d0-a26c-dafe26bb6498.PNG)
 ![5 star non vine reviews unpaid](https://user-images.githubusercontent.com/92127589/152852431-eae4b2fc-1861-4e69-8e1d-4666d13e1801.PNG)
 
